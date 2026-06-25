@@ -1,0 +1,35 @@
+[
+  {
+    "company": "Smarter Websites",
+    "role": "Web / CRM Developer",
+    "duration": "Previous",
+    "highlights": [
+      "Built custom WordPress websites",
+      "Created internal business applications",
+      "Developed custom plugins",
+      "Integrated websites with HighLevel CRM",
+      "Built automation workflows and CRM systems"
+    ]
+  },
+  {
+    "company": "Oceans Well Digital Marketing Agency",
+    "role": "Full Stack Developer",
+    "duration": "Previous",
+    "highlights": [
+      "Custom WordPress and coded websites",
+      "Managed hosting and deployments",
+      "Implemented AI-powered solutions",
+      "Optimized performance and scalability"
+    ]
+  },
+  {
+    "company": "Elite Media Agency",
+    "role": "Web Developer / CRM Integration Specialist",
+    "duration": "Previous",
+    "highlights": [
+      "Custom WordPress and coded websites",
+      "Managed hosting and deployments",
+      "Integrated websites with HighLevel CRM"
+    ]
+  }
+]
