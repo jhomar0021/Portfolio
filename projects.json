@@ -4,7 +4,7 @@
     "category": "Architecture & Design",
     "description": "Crafting elite, modern architectural residences with premium finishes, custom structural engineering, and seamless spatial layouts, specializing in bespoke luxury homes tailored to your lifestyle.",
     "builtWith": ["HTML", "CSS", "Tailwind CSS"],
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80",
+    "image": "https://cdn.discordapp.com/attachments/1519584018595713094/1519724804859494480/image.png?ex=6a3e9984&is=6a3d4804&hm=11226fa0da13508b7e65c26e9b92525e7a24ad38e9c76df2a3c78c450ced6a72&",
     "link": "https://jhomar0021.github.io/Apexhome/"
   },
   {
@@ -12,7 +12,15 @@
     "category": "Architecture & Design",
     "description": "Crafting elite, modern metropolitan residences that balance monochromatic stone facades with warm, ambient structural illumination, premium natural dark finishes, and seamless indoor-outdoor living boundaries.",
     "builtWith": ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80",
+    "image": "https://cdn.discordapp.com/attachments/1519584018595713094/1519724681924444233/image.png?ex=6a3e9967&is=6a3d47e7&hm=9d17c313d2ac1239185304170711d7274cafd52db8b7163108380f04a278c883&",
+    "link": "https://jhomar0021.github.io/Homebuilder-2/"
+  },
+  {
+    "title": "Amour & Co. | Premium Valentine's Gift Boutique",
+    "category": "E-Commerce & Retail",
+    "description": "An elegant luxury e-commerce experience designed for curated Valentine's gifting, featuring premium floral arrangements, handcrafted artisanal sweets, and bespoke jewelry collections with a sophisticated aesthetic.",
+    "builtWith": ["HTML", "CSS", "JavaScript"],
+    "image": "https://cdn.discordapp.com/attachments/1519584018595713094/1519724681924444233/image.png?ex=6a3e9967&is=6a3d47e7&hm=9d17c313d2ac1239185304170711d7274cafd52db8b7163108380f04a278c883&",
     "link": "https://jhomar0021.github.io/Homebuilder-2/"
   }
 ]
