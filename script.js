@@ -174,7 +174,7 @@ function renderProjects(projects, filter = "all") {
                             ${proj.builtWith.map((tech) => `<span class="badge bg-light text-dark border font-monospace" style="font-size:0.75rem">${tech}</span>`).join("")}
                         </div>
                     </div>
-                    <a href="${proj.link}" class="btn btn-purple w-100 mt-2">View Project</a>
+                    <a href="${proj.link}" class="btn btn-purple w-100 mt-2" target="blank">View Project</a>
                 </div>
             </div>
         </div>

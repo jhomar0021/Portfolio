@@ -1,26 +1,18 @@
 [
   {
-    "title": "Modern Suburban Development",
-    "category": "Homebuilders",
-    "description": "High converting sales funnel and automated registration sequence for a luxury residential property developer.",
-    "builtWith": ["WordPress", "GoHighLevel", "Elementor Pro"],
+    "title": "Apex Horizon Homes | Premier House Builders",
+    "category": "Architecture & Design",
+    "description": "Crafting elite, modern architectural residences with premium finishes, custom structural engineering, and seamless spatial layouts, specializing in bespoke luxury homes tailored to your lifestyle.",
+    "builtWith": ["HTML", "CSS", "Tailwind CSS"],
     "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80",
-    "link": "#"
+    "link": "https://jhomar0021.github.io/Apexhome/"
   },
   {
-    "title": "Automated CRM Onboarding Matrix",
-    "category": "Automation",
-    "description": "Complete customer setup automation handling internal webhooks and syncing system deployments with dynamic APIs.",
-    "builtWith": ["JavaScript", "APIs", "GoHighLevel", "Zapier"],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80",
-    "link": "#"
-  },
-  {
-    "title": "Custom SaaS Plugin Ecosystem",
-    "category": "Development",
-    "description": "Tailored performance architecture extending WordPress base themes safely with third-party database schemas.",
-    "builtWith": ["PHP", "WordPress", "MySQL", "Bootstrap"],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&q=80",
-    "link": "#"
+    "title": "Apex Horizon | Metropolitan Luxury Architecture",
+    "category": "Architecture & Design",
+    "description": "Crafting elite, modern metropolitan residences that balance monochromatic stone facades with warm, ambient structural illumination, premium natural dark finishes, and seamless indoor-outdoor living boundaries.",
+    "builtWith": ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80",
+    "link": "https://jhomar0021.github.io/Homebuilder-2/"
   }
 ]
