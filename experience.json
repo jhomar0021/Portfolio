@@ -2,7 +2,7 @@
   {
     "company": "Smarter Websites",
     "role": "Web / CRM Developer",
-    "duration": "Previous",
+    "duration": "Jun 2024 - Apr 2026",
     "highlights": [
       "Built custom WordPress websites",
       "Created internal business applications",
@@ -14,7 +14,7 @@
   {
     "company": "Oceans Well Digital Marketing Agency",
     "role": "Full Stack Developer",
-    "duration": "Previous",
+    "duration": "Feb 2023 - May 2024",
     "highlights": [
       "Custom WordPress and coded websites",
       "Managed hosting and deployments",
@@ -25,11 +25,39 @@
   {
     "company": "Elite Media Agency",
     "role": "Web Developer / CRM Integration Specialist",
-    "duration": "Previous",
+    "duration": "Jun 2022 - Jan 2023",
     "highlights": [
       "Custom WordPress and coded websites",
       "Managed hosting and deployments",
       "Integrated websites with HighLevel CRM"
+    ]
+  },
+  {
+    "company": "Appen Connect",
+    "role": "Social Media Evaluator",
+    "duration": "Feb 2021 - Jun 2022",
+    "highlights": [
+      "Evaluated social media content and advertisements for quality and compliance",
+      "Conducted research to verify content relevance and credibility"
+    ]
+  },
+  {
+    "company": "Telstra Small Business",
+    "role": "Technical Support Specialist",
+    "duration": "May 2015 - Jun 2016",
+    "highlights": [
+      "Provided technical support for internet connectivity and networking issues",
+      "Diagnosed router, modem, and network configuration problems",
+      "Assisted business customers with troubleshooting and optimization"
+    ]
+  },
+  {
+    "company": "Anthem BCBS",
+    "role": "Healthcare Customer Service Representative",
+    "duration": "Sep 2014 - Feb 2015",
+    "highlights": [
+      "Supported healthcare members with claims, benefits, and account inquiries",
+      "Maintained accurate records while delivering excellent customer service"
     ]
   }
 ]
