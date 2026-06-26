@@ -43,13 +43,11 @@ fetch("experience.json")
 function renderExperience() {
   const container = document.getElementById("experience-container");
 
-  // Slice the array to only grab 2 items starting from our current index
   const visibleExperiences = globalExperiences.slice(
     currentExpIndex,
     currentExpIndex + 2,
   );
 
-  // Map and generate HTML for the cards
   let cardsHtml = visibleExperiences
     .map(
       (exp) => `
@@ -77,11 +75,10 @@ function renderExperience() {
     )
     .join("");
 
-  // Check boundary states to disable buttons when necessary
+  // Simplified Boundary Checks
   const isStart = currentExpIndex === 0;
-  const isEnd = currentExpIndex + 2 >= globalExperiences.length;
+  const isEnd = currentExpIndex >= globalExperiences.length - 2;
 
-  // Create a vertical button stack containing both Up and Down controls
   let controlsHtml = `
     <div class="col-md-1 d-flex flex-column align-items-center justify-content-center gap-2 mb-4">
         <button id="prev-exp-btn" class="btn btn-purple rounded-circle shadow-sm ${isStart ? "disabled opacity-25" : ""}" 
@@ -95,32 +92,17 @@ function renderExperience() {
     </div>
   `;
 
-  // Update container markup
   container.innerHTML =
     `<div class="col-md-11"><div class="row justify-content-center">${cardsHtml}</div></div>` +
     controlsHtml;
 }
-
-// Updated navigation action handler
 window.scrollExperience = function (direction) {
   const newIndex = currentExpIndex + direction;
+  const maxIndex = Math.max(0, globalExperiences.length - 2);
 
-  // Ensure the new index stays within safe bounds of your JSON data length
-  if (newIndex >= 0 && newIndex + 1 < globalExperiences.length) {
+  // Only update if the new index is within safe bounds [0, maxIndex]
+  if (newIndex >= 0 && newIndex <= maxIndex) {
     currentExpIndex = newIndex;
-    renderExperience();
-  }
-};
-
-// Global window function to handle the button click action
-window.scrollExperience = function () {
-  // If we can still scroll down 1 item, increment the index
-  if (currentExpIndex + 2 < globalExperiences.length) {
-    currentExpIndex++;
-    renderExperience();
-  } else {
-    // Optional: Loop back to the top when hitting the bottom
-    currentExpIndex = 0;
     renderExperience();
   }
 };
