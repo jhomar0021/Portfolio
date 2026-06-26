@@ -8,10 +8,10 @@
     "link": "https://jhomar0021.github.io/Apexhome/"
   },
   {
-    "title": "Apex Horizon | Metropolitan Luxury Architecture",
+    "title": "Omar Horizon | Metropolitan Luxury Architecture",
     "category": "Architecture & Design",
     "description": "Crafting elite, modern metropolitan residences that balance monochromatic stone facades with warm, ambient structural illumination, premium natural dark finishes, and seamless indoor-outdoor living boundaries.",
-    "builtWith": ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+    "builtWith": ["HTML", "CSS", "JSON", "JavaScript", "Tailwind CSS"],
     "image": "https://cdn.discordapp.com/attachments/1519584018595713094/1519724681924444233/image.png?ex=6a3e9967&is=6a3d47e7&hm=9d17c313d2ac1239185304170711d7274cafd52db8b7163108380f04a278c883&",
     "link": "https://jhomar0021.github.io/Homebuilder-2/"
   },
@@ -19,8 +19,24 @@
     "title": "Amour & Co. | Premium Valentine's Gift Boutique",
     "category": "E-Commerce & Retail",
     "description": "An elegant luxury e-commerce experience designed for curated Valentine's gifting, featuring premium floral arrangements, handcrafted artisanal sweets, and bespoke jewelry collections with a sophisticated aesthetic.",
-    "builtWith": ["HTML", "CSS", "JavaScript"],
+    "builtWith": ["HTML", "Bootstrap", "JSON", "CSS", "JavaScript"],
     "image": "https://cdn.discordapp.com/attachments/1519584018595713094/1519721924735795433/image.png?ex=6a3e96d5&is=6a3d4555&hm=668e31f258ad6c24c5b3bf28d8f4b5483825314d1b6b9b4328c1e96b1700620a&",
     "link": "https://jhomar0021.github.io/giftshop/"
+  },
+  {
+    "title": "Omar Dental Care | Vibrant Modern Oral Healthcare",
+    "category": "Healthcare & Medical Services",
+    "description": "An elite dental care digital presence that redefines clinical comfort. Blending medical mastery with a relaxing, modern space, the platform highlights ultra-modern digital diagnostics, specialized lab design, and custom luxury suites designed to eliminate treatment anxiety.",
+    "builtWith": ["HTML", "Bootstrap", "CSS", "JSON", "JavaScript"],
+    "image": "https://cdn.discordapp.com/attachments/1519584018595713094/1519921718183989258/image.png?ex=6a3f50e8&is=6a3dff68&hm=9d1907a4672100bf0d4f38ca34ce5cda16576fabb9a6ac501640bc2f4bf42445&",
+    "link": "https://jhomar0021.github.io/Dental/index.html"
+  },
+  {
+    "title": "JhomDex || Anime | Manga | Manhwa",
+    "category": "Entertainment & Dashboard",
+    "description": "A premium single-page metrics tracker dashboard built to organize anime, manga, and manhwa libraries, featuring clean frontend layouts, interactive content arrays, and a modern secure engine.",
+    "builtWith": ["HTML", "CSS", "JQuery", "API"],
+    "image": "https://cdn.discordapp.com/attachments/1519584018595713094/1520171619576713397/image.png?ex=6a4039a5&is=6a3ee825&hm=670a896c2f0e3fbcb38f519c1744b890b21b72953e7eef01ac7e40e1cca58ff5&",
+    "link": "https://jhomar0021.github.io/Jhomdex/#home"
   }
 ]
